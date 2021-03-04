@@ -28,4 +28,4 @@ Currently, I'm **working full time making open source software** and free assets
 
 # Cyp Write Section
 This repository has been forked for personal use.
-The original creator is Indieteur [Indieteur](https://github.com/Indieteur).
+The original creator is [Indieteur](https://github.com/Indieteur).
