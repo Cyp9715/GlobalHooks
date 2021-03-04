@@ -9,10 +9,6 @@ namespace Indieteur
 {
     namespace GlobalHooks
     {
-
-
-
-
         class GlobalMouseHookEventArgs : HandledEventArgs
         {
             public InternalGlobalMouseHook.MouseMessages MouseMessages { get; private set; }
