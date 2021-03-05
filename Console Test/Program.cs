@@ -22,7 +22,7 @@ namespace Console_Test
            
             Console.ReadKey();
             //Do everything that you need to do starting from here.
-            Environment.Exit(0); //Once you have completed all the task, use this piece of code to exit the console application otherwise, the console will always wait for more messages.
+            //Environment.Exit(0); //Once you have completed all the task, use this piece of code to exit the console application otherwise, the console will always wait for more messages.
         }
 
         static void Main(string[] args)
